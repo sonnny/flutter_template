@@ -38,5 +38,5 @@ screens:
 
 ![Model](https://github.com/sonnny/flutter_template/blob/main/screenshot/segment.png)
 
-![Model](https://github.com/sonnny/flutter_template/blob/main/screenshot/segment.png)
+![Model](https://github.com/sonnny/flutter_template/blob/main/screenshot/top_nav_bar.png)
 
