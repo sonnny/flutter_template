@@ -27,3 +27,16 @@ screens:
 ```
 
 ![Model](https://github.com/sonnny/flutter_template/blob/main/screenshot/home.png)
+
+![Model](https://github.com/sonnny/flutter_template/blob/main/screenshot/bottom_nav_bar.png)
+
+![Model](https://github.com/sonnny/flutter_template/blob/main/screenshot/drawer.png)
+
+![Model](https://github.com/sonnny/flutter_template/blob/main/screenshot/listview.png)
+
+![Model](https://github.com/sonnny/flutter_template/blob/main/screenshot/no_drawer.png)
+
+![Model](https://github.com/sonnny/flutter_template/blob/main/screenshot/segment.png)
+
+![Model](https://github.com/sonnny/flutter_template/blob/main/screenshot/segment.png)
+
