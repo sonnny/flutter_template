@@ -25,3 +25,5 @@ screens:
   6) screen with segment nav
 
 ```
+
+![Model](https://github.com/sonnny/flutter_template/blob/main/screenshot/home.png)
